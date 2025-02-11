@@ -11,9 +11,10 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-    <a src="https://www.instagram.com/xiaoyu.113">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ins-xiaoyut-%23FF0069?logo=instagram&logoSize=%23FF0069">
-    </a>
+
+   <img alt="Static Badge" src="https://img.shields.io/badge/ins-xiaoyut-%23FF0069?logo=instagram&logoSize=%23FF0069&link=https%3A%2F%2Fwww.instagram.com%2Fxiaoyu.113">
+
+
 </p>
 </h1>
 
